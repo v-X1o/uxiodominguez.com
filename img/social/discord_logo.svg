@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="discord_logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="50.708333"
+     inkscape:cx="11.349219"
+     inkscape:cy="12.019721"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="1609"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 15.400006,2.709026 a 12.146995,12.165354 0 0 0 -0.634901,1.319713 17.561632,17.588175 0 0 0 -5.4865135,0 A 12.146995,12.165354 0 0 0 8.6436893,2.709026 19.166856,19.195825 0 0 0 3.6962447,4.2686868 20.760101,20.791478 0 0 0 0.10245926,18.173663 19.885612,19.915669 0 0 0 6.1759567,21.280988 15.441298,15.464636 0 0 0 7.5056573,19.193441 11.560011,11.577482 0 0 1 5.4571996,18.197658 a 4.0609776,4.0671155 0 0 0 0.5031299,-0.395915 13.967846,13.988957 0 0 0 12.1230355,0 q 0.251565,0.215953 0.503131,0.395915 a 12.985544,13.005172 0 0 1 -2.048457,1.007781 14.866293,14.888761 0 0 0 1.293763,2.135535 A 19.693944,19.72371 0 0 0 23.89332,18.23365 20.628328,20.659506 0 0 0 20.299534,4.3286737 19.27467,19.303802 0 0 0 15.400006,2.709026 Z M 8.0447252,15.366274 a 2.3239812,2.3274938 0 0 1 -2.1562714,-2.399479 2.3120019,2.3154964 0 0 1 2.1562714,-2.399477 2.3120019,2.3154964 0 0 1 2.1562718,2.399477 2.3120019,2.3154964 0 0 1 -2.1562718,2.399479 z m 7.9542448,0 a 2.3239812,2.3274938 0 0 1 -2.156272,-2.399479 2.3120019,2.3154964 0 0 1 2.156272,-2.399477 2.3000226,2.303499 0 0 1 2.156272,2.399477 2.3000226,2.303499 0 0 1 -2.156272,2.399479 z"
+     id="path1"
+     style="fill:#e8f9f8;fill-opacity:1;stroke-width:1.19884" />
+</svg>

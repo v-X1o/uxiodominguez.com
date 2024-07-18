@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="redbubble_logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="35.856206"
+     inkscape:cx="15.492436"
+     inkscape:cy="15.297212"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 12.002401,0.00220037 12,0.001 C 5.3739569,0.001 0.00110019,5.3726563 0.00110019,11.998699 0.00110019,18.625943 5.3751573,24 12,24 18.627243,24 23.9989,18.628344 23.9989,11.9999 23.9989,5.3738567 18.627243,0.00220037 12.002401,0.00220037 Z m 0.19446,16.24100763 a 0.32049882,0.32049882 0 0 1 -0.208865,0.07923 v 0.0012 H 5.3439476 A 0.32169919,0.32169919 0 0 1 5.0246492,16.001934 V 7.9738584 c 0,-0.1776548 0.142844,-0.3216992 0.3192984,-0.3216992 h 3.1077583 c 1.9349971,0 3.0921531,1.044322 3.0921531,2.7932608 0,1.163159 -0.58338,2.07544 -1.52687,2.447555 l 2.211081,2.896493 a 0.32289956,0.32289956 0 0 1 -0.03121,0.45374 z m 4.435367,0.08163 H 13.433242 A 0.32169919,0.32169919 0 0 1 13.113943,16.001934 V 7.9738584 c 0,-0.1776548 0.142845,-0.3204988 0.319299,-0.3204988 h 2.967315 c 2.224286,0 2.69123,1.3096038 2.69123,2.4091424 0,0.634996 -0.169252,1.139152 -0.505356,1.510066 0.817452,0.336104 1.256787,1.095938 1.256787,2.193076 0,1.602494 -1.20157,2.559189 -3.21099,2.559189 z"
+     id="path1"
+     style="stroke-width:1.20037;fill:#e8f9f8;fill-opacity:1" />
+</svg>

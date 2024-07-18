@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="email_logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="25.354167"
+     inkscape:cx="3.096138"
+     inkscape:cy="10.511093"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="1609"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 21.6,2.4 H 2.4 A 2.4,2.4 0 0 0 0,4.8 v 14.4 a 2.4,2.4 0 0 0 2.4,2.4 H 21.6 A 2.4,2.4 0 0 0 24,19.2 V 4.8 A 2.4,2.4 0 0 0 21.6,2.4 Z m 0,5.64 L 12,14.4408 2.4,8.04 V 5.1564 L 12,11.556 21.6,5.1564 Z"
+     id="path1"
+     style="fill:#e8f9f8;fill-opacity:1;stroke-width:1.2" />
+</svg>

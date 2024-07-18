@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="reddit_logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="25.354167"
+     inkscape:cx="6.9613804"
+     inkscape:cy="13.469187"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="1609"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <circle
+     cx="9.2040005"
+     cy="13.2"
+     r="1.2012"
+     id="circle1"
+     style="stroke-width:1.2;fill:#e8f9f8;fill-opacity:1" />
+  <path
+     d="M 14.508,16.0692 A 3.936,3.936 0 0 1 12,16.8 3.9252,3.9252 0 0 1 9.5028,16.044 0.324,0.324 0 0 0 9.048,16.5 c 0.852,0.642 1.8984,0.9708 2.9652,0.924 A 4.5732,4.5732 0 0 0 14.976,16.5 v 0.048 a 0.3408,0.3408 0 0 0 0.0072,-0.4752 0.336,0.336 0 0 0 -0.4752,-0.0036 z m 0.2508,-4.0212 a 1.2,1.2 0 0 0 0,2.4 l -0.0096,0.0468 c 0.0192,0.0024 0.0396,0 0.0612,0 A 1.2,1.2 0 0 0 15.96,13.2492 1.2,1.2 0 0 0 14.7588,12.048 Z"
+     id="path1"
+     style="stroke-width:1.2;fill:#e8f9f8;fill-opacity:1" />
+  <path
+     d="M 12,0 C 5.3748,0 0,5.3724 0,12 0,18.6252 5.3748,24 12,24 18.6252,24 24,18.6252 24,12 24,5.3724 18.6252,0 12,0 Z m 7.0308,13.596 c 0.0144,0.1752 0.0144,0.3516 0,0.5268 0,2.688 -3.1308,4.8744 -6.996,4.8744 -3.8652,0 -6.996,-2.184 -6.996,-4.8744 a 3.2172,3.2172 0 0 1 0,-0.5268 1.752,1.752 0 0 1 -0.546,-2.7924 1.7496,1.7496 0 0 1 2.4756,-0.0756 8.574,8.574 0 0 1 4.6788,-1.476 L 12.5388,5.088 V 5.0832 A 0.3756,0.3756 0 0 1 12.984,4.8 l 2.9388,0.588 A 1.2012,1.2012 0 1 1 15.7656,6.12 L 13.2,5.58 12.4212,9.324 a 8.5476,8.5476 0 0 1 4.62,1.476 1.752,1.752 0 0 1 2.9628,1.2 c 0.012,0.6756 -0.3684,1.296 -0.9732,1.596 z"
+     id="path2"
+     style="stroke-width:1.2;fill:#e8f9f8;fill-opacity:1" />
+</svg>

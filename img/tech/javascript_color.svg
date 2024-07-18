@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 50 50"
+   width="250"
+   height="250"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="javascript_color.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.7928103"
+     inkscape:cx="25.658041"
+     inkscape:cy="118.52899"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     fill="#ffd600"
+     d="M 0,50 V 0 h 50 v 50 z"
+     id="path1"
+     style="stroke-width:1.38889" />
+  <path
+     fill="#000001"
+     d="m 32.691667,37.426389 c 0.961111,1.561111 2.005555,3.056944 4.218055,3.056944 1.858334,0 2.833334,-0.923611 2.833334,-2.201389 0,-1.529166 -1.008334,-2.072222 -3.052778,-2.9625 L 35.569444,34.841667 C 32.334722,33.469444 30.183333,31.75 30.183333,28.118056 c 0,-3.347223 2.5625,-5.894445 6.566667,-5.894445 2.851389,0 4.9,0.9875 6.377778,3.573611 l -3.491667,2.231945 c -0.768055,-1.372223 -1.598611,-1.9125 -2.886111,-1.9125 -1.313889,0 -2.145833,0.829166 -2.145833,1.9125 0,1.338889 0.833333,1.880555 2.756944,2.709722 l 1.120833,0.477778 c 3.8125,1.623611 5.9625,3.281944 5.9625,7.009722 0,4.016667 -3.172222,6.218055 -7.430555,6.218055 -4.165278,0 -6.530556,-2.090277 -7.847222,-4.677777 z M 16.6,37.540278 c 0.702778,1.258333 1.770833,2.226389 3.306944,2.226389 1.469445,0 2.315278,-0.580556 2.315278,-2.8375 V 22.222222 h 4.629167 v 15.418056 c 0,4.676389 -2.7125,6.804166 -6.673611,6.804166 -3.579167,0 -6.1625,-2.425 -7.215278,-4.677777 z"
+     id="path2"
+     style="stroke-width:1.38889" />
+</svg>
